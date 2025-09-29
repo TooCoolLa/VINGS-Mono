@@ -1,0 +1,5 @@
+mmcv                      1.7.2
+mmengine                  0.10.5
+timm                      0.6.7
+termcolor                 2.5.0
+HTML4Vision               0.4.3
