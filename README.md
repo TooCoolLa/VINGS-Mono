@@ -84,8 +84,8 @@
 
 
 # Moblie App.
-
-[Todo] We need a server with GPU to train Gaussian Splatting, and we have develop an mobile app for VINGS-Mono. You can download it from here. You should connect your phone with the server and run the app, we provide an apk that you can directly install on your android phone.
+- Our Mobile App Repo: https://github.com/victkk/3DGS_SLAM_mobile_app.git.
+- We need a server with GPU to train Gaussian Splatting, and we have develop an mobile app for VINGS-Mono. You can download it from here. You should connect your phone with the server and run the app, we provide an apk that you can directly install on your android phone.
 
 
 # Acknowledgement.
