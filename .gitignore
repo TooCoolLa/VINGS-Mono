@@ -1,6 +1,6 @@
 __pycache__/
 .vscode/
 build_gtsam/*
-submodules/*
+# submodules/*  # Commented out to allow submodules
 ckpts/*
 output/*
